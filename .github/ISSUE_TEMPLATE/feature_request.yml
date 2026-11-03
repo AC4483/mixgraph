@@ -1,0 +1,19 @@
+name: Feature request
+description: Suggest an idea for Mixgraph
+labels: [enhancement]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What are you trying to do?
+      description: Describe the DJing problem, e.g. "I want to plan sets by genre".
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: How could Mixgraph help?
+  - type: textarea
+    id: extra
+    attributes:
+      label: Anything else?

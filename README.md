@@ -2,7 +2,13 @@
 
 A free web app for DJs to map which songs they can mix into each other, practice the transitions they're learning, and build sets from the ones they've nailed.
 
-**Use it here:** https://ac4483.github.io/mixgraph/
+**Try it now: https://ac4483.github.io/mixgraph/** · No install, no sign-up. Works on phone and laptop.
+
+<!-- DEMO GIF: replace this comment with a 5-10 second screen recording, e.g.
+![Mixgraph demo](demo.gif)
+Show: add a track → log a transition → open the Graph tab. -->
+
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ## Features
 
@@ -19,3 +25,11 @@ Everything is saved in your own browser (localStorage). Nothing is sent to a ser
 ## Run it yourself
 
 It's a single file with no build step: open `index.html` in a browser, or host it anywhere static.
+
+## Contributing
+
+Bug reports, ideas and pull requests are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md), browse [good first issues](https://github.com/AC4483/mixgraph/labels/good%20first%20issue), or ask in [Discussions](https://github.com/AC4483/mixgraph/discussions).
+
+## License
+
+[MIT](LICENSE)
